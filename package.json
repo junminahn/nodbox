@@ -1,7 +1,7 @@
 {
   "name": "nodbox",
   "version": "0.1.0",
-  "description": "",
+  "description": "Docker Image packaging for Nodbox; a tiny container to run JavaScript code",
   "main": "entrypoint.js",
   "author": "Junmin Ahn",
   "license": "MIT"
