@@ -10,6 +10,12 @@ project adheres to [Semantic Versioning](http://semver.org/).
 
 
 
+<a name="v0.3.2"></a>
+## [v0.3.2] - 2022-03-27
+DOCS:
+- Update readme
+
+
 <a name="v0.3.1"></a>
 ## [v0.3.1] - 2022-03-27
 CI:
@@ -34,6 +40,7 @@ CI:
 - Version bump to 0.1.0
 
 
-[Unreleased]: https://github.com/junminahn/nodbox/compare/v0.3.1...HEAD
+[Unreleased]: https://github.com/junminahn/nodbox/compare/v0.3.2...HEAD
+[v0.3.2]: https://github.com/junminahn/nodbox/compare/v0.3.1...v0.3.2
 [v0.3.1]: https://github.com/junminahn/nodbox/compare/v0.3.0...v0.3.1
 [v0.3.0]: https://github.com/junminahn/nodbox/compare/v0.2.0...v0.3.0
