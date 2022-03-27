@@ -4,7 +4,7 @@ SEMTAG=semtag
 
 CHANGELOG_FILE = CHANGELOG.md
 
-scope ?= "minor"
+scope ?= "auto"
 nextver = `$(SEMTAG) final -s $(scope) -o -f`
 
 changelog_unrelease:
